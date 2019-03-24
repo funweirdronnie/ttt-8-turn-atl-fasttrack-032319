@@ -1,2 +1,2 @@
-def move (position)
+def display_board
 end
